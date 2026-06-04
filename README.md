@@ -10,6 +10,8 @@ ContractIQ is an intelligent contract analysis system that uses agentic AI workf
 - **Smart Q&A**: Answer natural language questions about contract terms
 - **Source Citations**: Provide exact page references for all analyses
 
+- deployed :https://contract-iq-ochre.vercel.app/
+
 ## 🏗️ Architecture
 
 ```
