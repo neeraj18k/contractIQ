@@ -1,0 +1,153 @@
+"""
+PDF sample contract for testing
+"""
+
+SAMPLE_NDA = """
+MUTUAL NON-DISCLOSURE AGREEMENT (NDA)
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of the date of signing 
+between the parties ("Disclosing Party" and "Receiving Party").
+
+SECTION 1: CONFIDENTIALITY OBLIGATIONS
+
+1.1 The Receiving Party agrees to maintain the confidentiality of all proprietary information, 
+trade secrets, business plans, and technical data disclosed by the Disclosing Party. This 
+information, collectively referred to as "Confidential Information," shall not be disclosed 
+to any third party without prior written consent from the Disclosing Party.
+
+1.2 Confidential Information shall be protected using the same degree of care that a 
+reasonably prudent entity uses to protect its own confidential information, but in no case 
+less than reasonable care. The Receiving Party must implement reasonable safeguards including:
+- Limiting access to authorized personnel on a need-to-know basis
+- Maintaining secure physical and digital storage
+- Implementing appropriate security protocols
+
+1.3 The obligations under this section shall apply for a period of 5 (five) years from the 
+date of disclosure or for so long as the information remains a trade secret under applicable law.
+
+SECTION 2: TERMINATION OF AGREEMENT
+
+2.1 Termination Conditions
+This Agreement may be terminated by either party upon written notice to the other party. The 
+termination shall be effective thirty (30) days from the date of written notice ("Termination 
+Notice").
+
+2.2 Notice Requirements
+The Termination Notice must be delivered via email to the primary contact person of the other 
+party or via registered mail to their registered office address. A copy should also be sent to 
+their legal department if applicable.
+
+2.3 Post-Termination Obligations
+Upon termination, the Receiving Party shall:
+- Cease all use of the Confidential Information
+- Return or destroy all copies of Confidential Information within 15 days
+- Certify in writing that all Confidential Information has been properly disposed of
+- Maintain confidentiality obligations for additional two (2) years post-termination
+
+2.4 Survival of Obligations
+The confidentiality obligations shall survive the termination of this Agreement for the period 
+specified in Section 1.3.
+
+SECTION 3: NON-COMPETE CLAUSE
+
+3.1 Scope of Restriction
+During the term of this Agreement and for a period of TWO (2) YEARS following termination, 
+the Receiving Party agrees not to:
+- Engage in any business that directly competes with the Disclosing Party
+- Solicit clients or customers of the Disclosing Party
+- Use Confidential Information to develop competing products or services
+- Hire employees of the Disclosing Party involved in related projects
+
+3.2 Geographic Limitation
+This non-compete clause applies within India and any jurisdictions where the Disclosing 
+Party actively conducts business.
+
+3.3 Exception
+The non-compete restriction does not apply to general skills and knowledge retained in an 
+individual's unaided memory.
+
+SECTION 4: INDEMNIFICATION
+
+4.1 Indemnification Obligation
+Each party (as the Receiving Party) shall indemnify, defend, and hold harmless the other 
+party (as the Disclosing Party) from and against all claims, damages, losses, costs, and 
+expenses (including reasonable attorneys' fees) arising out of or resulting from:
+- Breach of this Agreement
+- Unauthorized disclosure of Confidential Information
+- Misuse of Confidential Information
+- Violation of intellectual property rights
+
+4.2 Notice of Claims
+The indemnified party shall provide prompt written notice to the indemnifying party of any 
+claims subject to indemnification.
+
+4.3 Defense
+The indemnifying party shall have the right to control the defense of any claim, provided 
+it keeps the indemnified party informed of proceedings.
+
+SECTION 5: GOVERNING LAW AND JURISDICTION
+
+5.1 Jurisdiction
+This Agreement shall be governed by and construed in accordance with the laws of India, 
+specifically the laws of the State of Karnataka, without regard to its conflict of law principles.
+
+5.2 Exclusive Forum
+Both parties irrevocably submit to the exclusive jurisdiction of the courts located in 
+Bangalore, Karnataka. Each party waives any objection to venue in such courts.
+
+5.3 Dispute Resolution
+Before initiating legal proceedings, the parties agree to attempt resolution through good 
+faith negotiations for thirty (30) days. If unresolved, the matter may be referred to 
+arbitration under the Arbitration and Conciliation Act, 1996.
+
+5.4 Governing Authority
+The interpretation and enforcement of this Agreement shall be subject to the authority and 
+jurisdiction of the Karnataka High Court.
+
+SECTION 6: EXCEPTIONS TO CONFIDENTIALITY
+
+Confidential Information shall not include information that:
+a) Is or becomes publicly available through no breach of this Agreement
+b) Is rightfully received by the Receiving Party from a third party without breach of 
+   any confidentiality obligation
+c) Is independently developed without reference to the Confidential Information
+d) Is required to be disclosed by law or court order, provided the Receiving Party gives 
+   prompt notice to allow the Disclosing Party to seek protective measures
+
+SECTION 7: TERM AND TERMINATION
+
+7.1 Term
+This Agreement shall commence on the date first written above and continue for a period of 
+THREE (3) YEARS, unless earlier terminated in accordance with Section 2.
+
+7.2 Renewal
+Either party may request renewal by written notice at least 90 days before expiration.
+
+SECTION 8: LIMITATION OF LIABILITY
+
+Neither party shall be liable for any indirect, incidental, special, consequential, or 
+punitive damages arising from this Agreement, even if advised of the possibility of such 
+damages.
+
+SECTION 9: ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties concerning the subject 
+matter and supersedes all prior agreements and understandings. Any modifications must be 
+made in writing and signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+DISCLOSING PARTY:
+
+Company Name: _________________________
+Authorized Signature: _________________________
+Name and Title: _________________________
+Date: _________________________
+
+RECEIVING PARTY:
+
+Company Name: _________________________
+Authorized Signature: _________________________
+Name and Title: _________________________
+Date: _________________________
+"""

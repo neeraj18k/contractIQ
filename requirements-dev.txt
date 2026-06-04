@@ -1,0 +1,2 @@
+# Python helper scripts requirements (optional)
+reportlab==4.0.4  # For PDF generation from sample contract

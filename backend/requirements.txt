@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+langchain
+langchain-google-genai
+google-generativeai
+langgraph
+chromadb
+PyMuPDF
+pydantic
+httpx
+requests
+numpy
