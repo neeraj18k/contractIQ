@@ -181,10 +181,10 @@ contractiq/
 │   ├── vite.config.js
 │   ├── tailwind.config.js
 │   ├── .env
-│   ├── Dockerfile
+│   ├── 
 │   └── public/
 │
-├── docker-compose.yml
+├── 
 └── README.md
 ```
 
@@ -243,6 +243,21 @@ Try these questions on the sample NDA:
 
 5. **"What is the governing jurisdiction?"**
    - Answer: Karnataka High Court, India (Section 5.4)
+  
+   - ## Sample Contract
+
+A sample contract is included for testing.
+
+Location:
+
+sample-files/SampleNDA.pdf
+
+Try these questions:
+
+- What is the termination notice period?
+- What are the confidentiality obligations?
+- Are there any risk clauses?
+- When does the agreement expire?
 
 ## 📊 API Endpoints
 
